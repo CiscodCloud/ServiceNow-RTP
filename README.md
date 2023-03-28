@@ -1,2 +1,2 @@
 # ServiceNow-RTP
-Respository for ServiceNow integration. ACI configuration in SNG.
+Respository for ServiceNow integration. ACI configuration in RTP.
